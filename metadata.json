@@ -1,0 +1,6 @@
+{
+  "name": "Lost Item Reporting Portal",
+  "description": "Comprehensive Lost Item Report system featuring secure submission, location mapping, timestamp tracking, and reference verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
